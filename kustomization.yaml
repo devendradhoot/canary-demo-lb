@@ -7,4 +7,4 @@ resources:
 - preview-service.yaml
 images:
 - name: devendradhoot/rollouts-demo
-  newTag: red
+  newTag: yellow

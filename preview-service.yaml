@@ -14,4 +14,4 @@ spec:
       name: http
   selector:
     app: rollouts-demo
-  type: NodePort
+  type: LoadBalancer
